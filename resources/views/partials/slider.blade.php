@@ -10,7 +10,7 @@
                     </div>
                 </div>
             </div>
-            <div class="swiper-slide dark" style="background-image: url('/assets/img/slider/1.jpg');">
+            <div class="swiper-slide dark" style="background-image: url('/assets/img/slider/2.jpg');">
                 <div class="container clearfix">
                     <div class="slider-caption slider-caption-center">
                         <h2 data-caption-animate="fadeInUp">ARTÍCULOS ELÁSTICOS CAMPEÓN</h2>
@@ -18,23 +18,7 @@
                     </div>
                 </div>
             </div>
-            <div class="swiper-slide dark" style="background-image: url('/assets/img/slider/1.jpg');">
-                <div class="container clearfix">
-                    <div class="slider-caption slider-caption-center">
-                        <h2 data-caption-animate="fadeInUp">ARTÍCULOS ELÁSTICOS CAMPEÓN</h2>
-                        <!-- <p data-caption-animate="fadeInUp" data-caption-delay="200"></p> -->
-                    </div>
-                </div>
-            </div>
-            <div class="swiper-slide dark" style="background-image: url('/assets/img/slider/1.jpg');">
-                <div class="container clearfix">
-                    <div class="slider-caption slider-caption-center">
-                        <h2 data-caption-animate="fadeInUp">ARTÍCULOS ELÁSTICOS CAMPEÓN</h2>
-                        <!-- <p data-caption-animate="fadeInUp" data-caption-delay="200"></p> -->
-                    </div>
-                </div>
-            </div>
-            <div class="swiper-slide dark" style="background-image: url('/assets/img/slider/1.jpg');">
+            <div class="swiper-slide dark" style="background-image: url('/assets/img/slider/3.jpg');">
                 <div class="container clearfix">
                     <div class="slider-caption slider-caption-center">
                         <h2 data-caption-animate="fadeInUp">ARTÍCULOS ELÁSTICOS CAMPEÓN</h2>

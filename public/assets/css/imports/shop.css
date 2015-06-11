@@ -74,7 +74,7 @@ body:not(.device-touch):not(.device-xs):not(.device-xxs) .product-image > a {
 .single-product .product-title h2 a { color: #333; }
 
 .product-title h3 a:hover,
-.single-product .product-title h2 a:hover { color: #e64224; }
+.single-product .product-title h2 a:hover { color: #e30513; }
 
 .product-price {
 	font-size: 18px;
@@ -91,7 +91,7 @@ body:not(.device-touch):not(.device-xs):not(.device-xxs) .product-image > a {
 
 .product-price ins {
 	text-decoration: none;
-	color: #e64224;
+	color: #e30513;
 }
 
 .product-overlay {
@@ -150,7 +150,7 @@ body:not(.device-touch):not(.device-xs):not(.device-xxs) .product-overlay a {
 	top: 10px;
 	left: 10px;
 	padding: 6px 10px;
-	background-color: #e64224;
+	background-color: #e30513;
 	color: #FFF;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
 	border-radius: 2px;
@@ -300,7 +300,7 @@ body:not(.device-touch):not(.device-xs):not(.device-xxs) .product-overlay a {
 .single-product .product-price {
 	float: left;
 	font-size: 24px;
-	color: #e64224;
+	color: #e30513;
 	margin-bottom: 0;
 }
 
@@ -443,7 +443,7 @@ body:not(.device-touch):not(.device-xs):not(.device-xxs) .product-overlay a {
 	border: 2px solid #EEE;
 }
 
-.cart-product-thumbnail img:hover { border-color: #e64224; }
+.cart-product-thumbnail img:hover { border-color: #e30513; }
 
 .cart-product-name a,
 .product-name a {

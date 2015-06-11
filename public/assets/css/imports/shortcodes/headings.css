@@ -16,14 +16,14 @@
 
 .title-block {
 	padding: 2px 0 3px 20px;
-	border-left: 7px solid #e64224;
+	border-left: 7px solid #e30513;
 	margin-bottom: 30px;
 }
 
 .title-block-right {
 	padding: 2px 20px 3px 0;
 	border-left: 0;
-	border-right: 7px solid #e64224;
+	border-right: 7px solid #e30513;
 	text-align: right;
 }
 
@@ -128,7 +128,7 @@
 .heading-block.noborder:after,
 .heading-block.nobottomborder:after { display: none; }
 
-.heading-block.border-color:after { border-color: #e64224; }
+.heading-block.border-color:after { border-color: #e30513; }
 
 
 /* Emphasis Title
@@ -191,7 +191,7 @@
 
 .fancy-title.title-border-color:before {
 	top: 49%;
-	border-top: 1px solid #e64224;
+	border-top: 1px solid #e30513;
 	opacity: 0.6;
 }
 
@@ -236,7 +236,7 @@
 	display: block;
 	background: transparent;
 	padding: 0 0 10px;
-	border-bottom: 2px solid #e64224;
+	border-bottom: 2px solid #e30513;
 }
 
 

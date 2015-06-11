@@ -270,7 +270,7 @@
 }
 
 .owl-theme .owl-controls .owl-nav [class*=owl-]:hover {
-	background-color: #e64224 !important;
+	background-color: #e30513 !important;
 	color: #FFF !important;
 	text-decoration: none;
 }
@@ -295,7 +295,7 @@
 	margin: 0 4px;
 	opacity: 0.5;
 	border-radius: 50%;
-	background-color: #e64224;
+	background-color: #e30513;
 	-webkit-transition: all .3s ease;
 	-o-transition: all .3s ease;
 	transition: all .3s ease;

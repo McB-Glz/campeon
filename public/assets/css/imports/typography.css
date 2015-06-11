@@ -22,19 +22,19 @@ dl, dt, dd, ol, ul, li {
 }
 
 ::selection {
-	background: #e64224;
+	background: #e30513;
 	color: #FFF;
 	text-shadow: none;
 }
 
 ::-moz-selection {
-	background: #e64224; /* Firefox */
+	background: #e30513; /* Firefox */
 	color: #FFF;
 	text-shadow: none;
 }
 
 ::-webkit-selection {
-	background: #e64224; /* Safari */
+	background: #e30513; /* Safari */
 	color: #FFF;
 	text-shadow: none;
 }
@@ -56,7 +56,7 @@ body {
 
 a {
 	text-decoration: none !important;
-	color: #e64224;
+	color: #e30513;
 }
 
 a:hover { color: #222; }
@@ -111,7 +111,7 @@ h2 > span:not(.nocolor),
 h3 > span:not(.nocolor),
 h4 > span:not(.nocolor),
 h5 > span:not(.nocolor),
-h6 > span:not(.nocolor) { color: #e64224; }
+h6 > span:not(.nocolor) { color: #e30513; }
 
 p,
 pre,

@@ -21,7 +21,7 @@
 
                 <ul class="one-page-menu">
                     <li><a href="#" data-href="#quienes-somos"><div>Quienes Somos</div></a></li>
-                    <li><a href="#" data-href="#section-productos"><div>Producto</div></a></li>
+                    <li><a href="#" data-href="#section-productos"><div>Productos</div></a></li>
                     <li><a href="#" data-href="#section-ventas"><div>Ventas</div></a></li>
                     <li><a href="#" data-href="#section-contacto"><div>Contacto</div></a></li>
                 </ul>

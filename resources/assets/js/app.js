@@ -73,4 +73,9 @@ $(function(){
 
 	/* ------------- Swiper Slider End ------------- */
 
+	/* ------------- Product Grid Js ------------- */
+	Grid.init();
+
+	/* ------------- Contact Form Js ------------- */
+
 });

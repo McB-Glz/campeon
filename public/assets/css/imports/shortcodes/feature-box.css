@@ -41,7 +41,7 @@
 .feature-box .fbox-icon i,
 .feature-box .fbox-icon img {
 	border-radius: 50%;
-	background-color: #e64224;
+	background-color: #e30513;
 }
 
 .feature-box .fbox-icon i {
@@ -88,7 +88,7 @@
 -----------------------------------------------------------------*/
 
 .feature-box.fbox-outline .fbox-icon {
-	border: 1px solid #e64224;
+	border: 1px solid #e30513;
 	border-radius: 50%;
 	padding: 3px;
 }
@@ -156,7 +156,7 @@
 -----------------------------------------------------------------*/
 
 .feature-box.fbox-border .fbox-icon {
-	border: 1px solid #e64224;
+	border: 1px solid #e30513;
 	border-radius: 50%;
 }
 
@@ -164,7 +164,7 @@
 .feature-box.fbox-border .fbox-icon img {
 	border: none;
 	background-color: transparent !important;
-	color: #e64224;
+	color: #e30513;
 }
 
 .feature-box.fbox-border .fbox-icon { padding: 0; }
@@ -204,7 +204,7 @@
 .feature-box.fbox-plain .fbox-icon img {
 	border: none !important;
 	background-color: transparent !important;
-	color: #e64224;
+	color: #e30513;
 	border-radius: 0;
 }
 
@@ -483,10 +483,10 @@
 	color: #FFF;
 }
 
-.fbox-effect.fbox-dark .fbox-icon i:after { box-shadow: 0 0 0 2px #e64224; }
+.fbox-effect.fbox-dark .fbox-icon i:after { box-shadow: 0 0 0 2px #e30513; }
 
 .fbox-effect.fbox-dark .fbox-icon i:hover,
-.fbox-effect.fbox-dark:hover .fbox-icon i { background-color: #e64224; }
+.fbox-effect.fbox-dark:hover .fbox-icon i { background-color: #e30513; }
 
 .fbox-effect .fbox-icon i:hover:after,
 .fbox-effect:hover .fbox-icon i:after {
@@ -538,9 +538,9 @@
 }
 
 .fbox-border.fbox-effect.fbox-dark .fbox-icon i:hover,
-.fbox-border.fbox-effect.fbox-dark:hover .fbox-icon i { box-shadow: 0 0 0 1px #e64224; }
+.fbox-border.fbox-effect.fbox-dark:hover .fbox-icon i { box-shadow: 0 0 0 1px #e30513; }
 
-.fbox-border.fbox-effect.fbox-dark .fbox-icon i:after { background-color: #e64224; }
+.fbox-border.fbox-effect.fbox-dark .fbox-icon i:after { background-color: #e30513; }
 
 .fbox-border.fbox-effect .fbox-icon i:hover:after,
 .fbox-border.fbox-effect:hover .fbox-icon i:after {

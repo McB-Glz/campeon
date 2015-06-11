@@ -42,11 +42,11 @@
 
 #portfolio-filter li:last-child a { border-radius: 0 4px 4px 0; }
 
-#portfolio-filter li a:hover { color: #e64224; }
+#portfolio-filter li a:hover { color: #e30513; }
 
 #portfolio-filter li.activeFilter a {
 	color: #FFF !important;
-	background-color: #e64224;
+	background-color: #e30513;
 	margin: -1px 0;
 	padding: 13px 18px;
 }
@@ -79,7 +79,7 @@
 }
 
 #portfolio-shuffle:hover {
-	background-color: #e64224;
+	background-color: #e30513;
 	color: #FFF;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
 }
@@ -145,7 +145,7 @@ body:not(.device-touch):not(.device-xs):not(.device-xxs) .portfolio-notitle .por
 
 .portfolio-desc h3 a { color: #222; }
 
-.portfolio-desc h3 a:hover { color: #e64224; }
+.portfolio-desc h3 a:hover { color: #e30513; }
 
 .portfolio-desc span {
 	display: block;
@@ -1203,7 +1203,7 @@ body:not(.device-touch):not(.device-xs):not(.device-xxs) .portfolio-overlay a {
 .iportfolio:hover a.center-icon { opacity: 1; }
 
 .portfolio-overlay a:hover {
-	color: #e64224;
+	color: #e30513;
 	background-color: #EEE;
 }
 
@@ -1514,7 +1514,7 @@ body.device-touch.device-xxs .portfolio-notitle .portfolio-overlay { display: no
 
 #portfolio-navigation a:first-child { margin-left: 0; }
 
-#portfolio-navigation a:hover { color: #e64224; }
+#portfolio-navigation a:hover { color: #e30513; }
 
 #portfolio-ajax-show #portfolio-navigation {
 	top: 0;

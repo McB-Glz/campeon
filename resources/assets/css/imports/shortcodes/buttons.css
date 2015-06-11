@@ -24,7 +24,7 @@
 	font-size: 14px;
 	height: 40px;
 	line-height: 40px;
-	background-color: #e64224;
+	background-color: #e30513;
 	color: #FFF;
 	font-weight: 600;
 	text-transform: uppercase;
@@ -53,7 +53,7 @@ body:not(.device-touch) .button {
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
 }
 
-.button.button-dark:hover { background-color: #e64224; }
+.button.button-dark:hover { background-color: #e30513; }
 
 .button.button-mini {
 	padding: 0 14px;
@@ -196,7 +196,7 @@ body:not(.device-touch) .button {
 }
 
 .button.button-3d:hover {
-	background-color: #e64224 !important;
+	background-color: #e30513 !important;
 	opacity: 0.9;
 }
 

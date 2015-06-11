@@ -40,15 +40,15 @@
 .process-steps li.active h5,
 .process-steps li.ui-tabs-active h5 {
 	font-weight: 600;
-	color: #e64224;
+	color: #e30513;
 }
 
 .process-steps li.active a,
 .process-steps li.ui-tabs-active a {
-	background-color: #e64224 !important;
+	background-color: #e30513 !important;
 	color: #FFF;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
-	border-color: #e64224 !important;
+	border-color: #e30513 !important;
 }
 
 .process-steps li:before,

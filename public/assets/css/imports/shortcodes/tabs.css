@@ -77,7 +77,7 @@ ul.tab-nav:not(.tab-nav-lg) li.ui-tabs-active a {
 	top: -1px;
 	height: 43px;
 	line-height: 38px;
-	border-top: 2px solid #e64224;
+	border-top: 2px solid #e30513;
 }
 
 .tabs.tabs-alt.tabs-tb ul.tab-nav li.ui-tabs-active a { height: 42px; }
@@ -97,7 +97,7 @@ ul.tab-nav:not(.tab-nav-lg) li.ui-tabs-active a {
 }
 
 .tabs.tabs-bb ul.tab-nav li.ui-tabs-active a {
-	border-bottom: 2px solid #e64224;
+	border-bottom: 2px solid #e30513;
 	top: -2px;
 	height: 44px;
 	line-height: 44px;
@@ -130,7 +130,7 @@ ul.tab-nav.tab-nav2 li a {
 
 ul.tab-nav.tab-nav2 li.ui-state-active a {
 	top: 0;
-	background-color: #e64224;
+	background-color: #e30513;
 	color: #FFF;
 }
 
@@ -168,7 +168,7 @@ ul.tab-nav.tab-nav-lg li i {
 }
 
 ul.tab-nav-lg li.ui-tabs-active a {
-	color: #e64224;
+	color: #e30513;
 }
 
 
@@ -354,7 +354,7 @@ ul.tab-nav li a i {
 	border-color: rgba(0,0,0,0.1) !important;
 	color: #FFF !important;
 	font-weight: 600;
-	background-color: #e64224 !important;
+	background-color: #e30513 !important;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
 }
 
