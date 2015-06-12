@@ -38,6 +38,8 @@ module.exports = function(grunt) {
             'resources/assets/js/jquery.vmap.js',
             'resources/assets/js/functions.js',
             'resources/assets/js/modernizr.custom.js',
+            'resources/assets/js/lib/bootstrapValidator.min.js',
+            'resources/assets/js/lib/bootstrapValidatorFormFramework.min.js',
             'resources/assets/js/app.js',
           ],
         },

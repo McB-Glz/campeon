@@ -48435,4 +48435,8 @@ a {
 .og-details a {
   display: none;
 }
+#formSuccess,
+#formFail {
+  display: none;
+}
 /*# sourceMappingURL=main.min.css.map */

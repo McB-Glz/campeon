@@ -37,7 +37,7 @@
 
 	        </section>
 
-	        <section class="page-section quienes">
+	        <section class="page-section quienes bottommargin">
 
 	            <div class="container clearfix">
 
@@ -48,7 +48,7 @@
 	            </div>
 
 	        </section>
-	        <section id="section-productos" clas="page-section productos topmargin bottommargin-lg">
+	        <section id="section-productos" clas="page-section productos topmargin-lg bottommargin-lg">
 	        	<div class="main container clearfix">
 	        	<h3 class="center">PRODUCTOS</h3>
 	        		<ul id="og-grid" class="og-grid">
@@ -138,6 +138,33 @@
 	    </div>
 
 	</section><!-- #content end -->
+	<section id="section-ventas" class="page-section section parallax dark nobottommargin" style="background-image: url('assets/img/parallax/ventas.jpg'); padding: 100px 0;" data-stellar-background-ratio="0.3">
+
+	    <div class="container clearfix">
+
+	        <div class="col_half nobottommargin">&nbsp;</div>
+
+	        <div class="col_half nobottommargin col_last">
+
+	            <div class="heading-block center">
+	                <h3>Oficina Central</h3>
+	                <address>
+	                	5 DE FEBRERO No. 533, COL. ALAMOS,<br/> MEXICO, D.F., C.P. 03400,<br/> DEL.  BENITO JUAREZ 
+	                </address>
+	                <p>
+	                	Tel.: <a href="tel:55191915">(55) 55 19 19 15</a> | <a href="tel:55192058">(55) 55 19 20 58</a> | <a href="tel:55306972">(55) 55 30 69 72</a>
+	                </p>
+	                <p>
+	                	Fax: <a href="tel:55190576">(55) 55 19 05 76</a>
+	                </p>
+	                <p><a href="mailto:ventas@articuloscampeon.com">ventas@articuloscampeon.com</a></p>
+	            </div>
+
+	        </div>
+
+	    </div>
+
+	</section>
 @stop
 
 @section('js')

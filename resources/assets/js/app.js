@@ -77,5 +77,70 @@ $(function(){
 	Grid.init();
 
 	/* ------------- Contact Form Js ------------- */
+	$('#contactForm').formValidation({
+        framework: 'bootstrap',
+        message: 'Por favor introduce la información solicitada.',                        
+        icon: {
+            valid: 'glyphicon glyphicon-ok',
+            invalid: 'glyphicon glyphicon-remove',
+            validating: 'glyphicon glyphicon-refresh'
+        },
+        fields: {
+            message: {
+                validators: {
+                    notEmpty: {
+                        message: 'Por favor introduce tu duda o comentario.'
+                    }
+                }
+            },
+            name: {
+                validators: {
+                    notEmpty: {
+                        message: 'Por favor introduce tu nombre.'
+                    }
+                }
+            },
+            email: {
+                validators: {
+                    notEmpty: {
+                        message: 'Por favor introduce tu email.'
+                    },
+                    emailAddress: {
+                        message: 'Por favor verifíca tu email.'
+                    }
+                }
+            }
+        }
+    })
+    .on('success.form.fv', function(e) {
+        // Prevent form submission
+        e.preventDefault();
+        //$('.notification-block').hide();    
+        // Get the form instance
+        var $form = $(e.target);            
 
+        // Get the Form Validator instance
+        var bv = $form.data('formValidation');
+        
+        // Use Ajax to submit form data
+        $.post($form.attr('action') + '?ajax=1', $form.serialize(), function(result) {                        
+
+            if(result.status == 'ok'){             
+
+                $('#formSuccess').fadeIn();
+                $('.form-control').val('');
+                $('#contactForm').fadeOut();                                    
+                //$('.notification-block').delay(4000).fadeOut();                                   
+
+            }else{                                    
+                
+                 $('#formFail').fadeIn();
+                //$('#error-notification-block').fadeIn();                    
+            }
+
+            $('#contactForm').formValidation('destroy');
+                //contactFormValidation();
+
+        }, 'json');
+	});
 });
