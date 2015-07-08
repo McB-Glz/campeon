@@ -7,7 +7,7 @@ $(function(){
 	  slidesPerView: 1,
 	  grabCursor: true,
 	  loop: true,
-	  autoplay: 8000,
+	  autoplay: 3000,
 	  onSwiperCreated: function(swiper){
 	      $('[data-caption-animate]').each(function(){
 	          var $toAnimateElement = $(this);

@@ -21,7 +21,7 @@
 	        <!-- Quienes Somos
 	        ============================================= -->
 
-	        <section id="quienes-somos" class="page-section main-blue bottommargin-lg">
+	        <section id="quienes-somos" class="page-section main-blue bottommargin-lg inicio">
 
 	            <div class="container clearfix">
 
